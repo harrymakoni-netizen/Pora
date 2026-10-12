@@ -7,3 +7,5 @@ Run `python -m http.server 4173 --directory dist` and open http://localhost:4173
 Uses fictional device-local data. No live payments, messaging, authentication or clinical AI are connected.
 
 Reward checks: `node tests/reward.test.mjs`.
+
+Vercel: Framework Other; output directory dist; no build or install command.

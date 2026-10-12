@@ -1,0 +1,1 @@
+{"name":"pora","private":true,"type":"module","scripts":{"test":"node tests/reward.test.mjs"}}
